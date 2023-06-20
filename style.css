@@ -29,12 +29,6 @@ body * {
   color: var(--text-color);
 }
 body {
-  /*
-  background-image:url(./assets/bg-mobile.jpg);
-  background-repeat: no-repeat;
-  background-position: top center;
-  background-size: cover;
-  */
   background: var(--bg-url) no-repeat top center/cover;
   height: 100vh;
 }
